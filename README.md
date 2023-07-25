@@ -23,3 +23,8 @@ and import in `input_data` variable
 5. The output image will be in `assets/imgs/output` folder
 
 6. The output folder will named after the input_image file name, and images will named after the `name` property in your json file. If it's duplicated, it will be added a number at the end of the name
+
+## Output examples
+
+<img width="48%" src="https://github.com/Lostjerome/cardname-generator/assets/88102079/137fcd3c-d55b-47a2-a644-fa1313b9fcb4" />
+<img width="48%" src="https://github.com/Lostjerome/cardname-generator/assets/88102079/bc8fb368-0d6c-48a2-8bbe-978e22135562" />
