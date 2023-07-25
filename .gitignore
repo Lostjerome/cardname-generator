@@ -1,0 +1,6 @@
+# ignore all files in the output folder 
+*.png
+utils/input/*.json
+node_modules
+pnpm-lock.yaml
+dist
